@@ -3,21 +3,16 @@
 ## 프로젝트 소개
 본 프로젝트는 전국의 날씨와 미세먼지 정보를 위치 기반으로 확인할 수 있고, 적절한 관광지를 추천해주는 모바일 기반 웹 서비스 입니다!
 
-## 뷰 디자인
-날씨(하루)　　　　　　　　　　　　　　　　　　　　　　날씨(주간)\
-![날씨 (하루)](https://user-images.githubusercontent.com/87220517/230921984-f2c0456e-daea-4e30-b684-c6f4b44db975.png) ![날씨 (주간)](https://user-images.githubusercontent.com/87220517/230922039-03311e02-fe71-431b-bbb6-e55773a2091b.png)\
-날씨(상세정보)　　　　　　　　　　　　　　　　　　　　미세먼지\
-![날씨 (상세정보)](https://user-images.githubusercontent.com/87220517/230923101-187e4fa2-8872-4926-b4cb-1bfee30b230e.png) ![미세먼지](https://user-images.githubusercontent.com/87220517/230923168-2c986f3d-2e14-4546-94fe-b1149005094d.png)\
-관광　　　　　　　　　　　　　　　　　　　　　　　　　관광(지역상세-주간)\
-![관광](https://user-images.githubusercontent.com/87220517/230923680-429992f1-84bc-425f-869e-b7c8b51ab782.png) ![관광(지역상세-주간날씨)](https://user-images.githubusercontent.com/87220517/230923717-fdbaee27-ab98-448a-b8bf-3f9da7ca8517.png)\
-관광(지역상세-하루)　　　　　　　　　　　　　　　　　관광(리스트)\
-![관광(지역상세-하루날씨)](https://user-images.githubusercontent.com/87220517/230924074-fd86a692-dfac-47e0-b793-f76b8b628615.png) ![관광(리스트형식)](https://user-images.githubusercontent.com/87220517/230924107-8e1f4bbc-b6c2-4e93-88b0-5dc0b60ecdaa.png)\
-관광(상세정보)\
-![관광(관광지 상세정보)](https://user-images.githubusercontent.com/87220517/230924284-9ff77794-7c10-46b8-ac04-dd2355cbf7e2.png)
+## 시연 영상(현재 배포 중단)
+https://github.com/WeatherWhere/.github/assets/87220517/46a4872e-58ba-429a-9aae-4adcf662a6f3
 
 ---
-## AWS EKS 설계도(수정 중)
-![2조_초기_AWS_아키텍처](https://user-images.githubusercontent.com/87220517/230924563-d7ef597e-c801-44d0-929c-ba7b96ea79e2.png)
+## AWS EKS 설계도
+<img width="721" alt="스크린샷 2023-06-22 13 10 49" src="https://github.com/WeatherWhere/.github/assets/87220517/47084e1f-1ea2-403c-91bf-8125c07f0898">
+
+## 서비스 소개 자료
+[WeatherWhere_소개자료.pdf](https://github.com/WeatherWhere/.github/files/11828557/WeatherWhere_.pdf)
+
 
 ---
 ## 주요 기술 및 라이브러리
